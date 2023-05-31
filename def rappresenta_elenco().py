@@ -107,7 +107,7 @@ def menù():
             elif numero == 4:
                 picc_elettrodomestici_elettronica_consumo(f4)
             elif numero == 5:
-                pass
+                    sorgente_luminosa(f5)
             elif numero == 6:
                 break
 menù()
